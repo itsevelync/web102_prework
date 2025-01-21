@@ -32,7 +32,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-While building the website, my biggest challenge was integrating JavaScript with HTML to ensure to frontend displayed accurate data and functioned as anticipated.
+While building the website, my biggest challenge was integrating JavaScript with HTML to ensure the frontend displayed accurate data and functioned as anticipated.
 
 ## License
 
